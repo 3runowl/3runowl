@@ -22,7 +22,6 @@
 <div> 
  <a href="https://www.instagram.com/3runowl/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:brunoslow@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-![Snake animation](https://github.com/3runowl/3runowl/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
